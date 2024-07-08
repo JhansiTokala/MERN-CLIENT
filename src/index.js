@@ -14,9 +14,9 @@ root.render(
 
     
     <Routes>
-  <Route path="/register" element={<Register/>}/>
-  <Route path="/login" element={<Login/>}/>
-  <Route path="/logout" element={<h1>Logout</h1>}/>
+      <Route path="/register" element={<Register/>}/>
+      <Route path="/login" element={<Login/>}/>
+      <Route path="/logout" element={<Logout/>}/>
   
 
     </Routes>
